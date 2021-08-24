@@ -1,0 +1,120 @@
+Go Introduction:
+
+- Basic Syntax/Program Structure
+- Comment
+- Identifiers and Keywords
+- Data Types
+- Variables
+- Operators
+- Scope Rules
+- Constants
+- Type Casting
+- Enviroment Variables
+- Output Functions (Print, Println, Printf)
+
+Go-Controls:
+- Decision Making (if, if-else, else-if, nested if)
+- Switch Statements
+- For Loop [Goto, Break, Continue]
+- Range
+
+Go-Functions:
+- Functions/Methods (Multiple Return Value)
+- Variadic Function
+- Recursion
+- First Class Function
+    - Anonymous
+    - User defined function types
+    - Passing functions as arguments to other functions
+    - Returning functions from other functions
+    - Closure
+
+Go Arrays:
+- Arrays
+- Slices
+
+Command Line:
+- Command-Line arguments
+- Command-Line Flags
+- Command-Line Subcommands
+
+Go Strings:
+- Strings Functions
+- String Formatting
+- Regular Expressions
+
+Go Types:
+- Structures
+- Interfaces
+- Pointers
+- Reflect
+- Rune
+
+Go Packages:
+- Packages
+
+Go Map:
+- Maps
+
+Go Error:
+- Error Handling
+- Recover
+- Defer 
+- Panic
+- Custom Errors
+
+Go Concurrency:
+- Concurrency: Goroutines
+- Race
+- Mutex
+- Atomic Variable
+- Channels
+    - Channel Buffering
+    - Channel Synchronization
+    - Channel Directions
+- Worker Pools
+- Select Statements
+
+Go Time:
+- Time
+- Time Formatting
+- Epoch
+- Tickers
+
+Go Object Oriented Programming:
+- Structs Instead of Class
+- Composition Insteas of Inheritance
+- Polymorphism
+
+
+Go Misc:
+- File I/O
+- JSON
+- HTTP Server
+- URL Parsing
+- Rest API
+- Random Number
+- Sorting
+- Reflection
+- Directories
+- Testing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
